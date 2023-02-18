@@ -11,6 +11,7 @@
 Пароль: q
 
 Ссылки:
+
 GET-запрос создания пользователя:
 http://api.auth.org/signup.php?user_contact=temp@mail.ru&user_login=test&user_password=1234
 
@@ -35,6 +36,7 @@ User: q
 Password: q
 
 Links:
+
 GET request to create a user:
 http://api.auth.org/signup.php?user_contact=temp@mail.ru&user_login=test&user_password=1234
 
